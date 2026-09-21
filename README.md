@@ -1,5 +1,5 @@
-cc0-screenshots
-===============
+cc0-assets
+==========
 
 I don't want to pollute my various git repos with screenshots. That's too much for ordinary folk to clone!
 
