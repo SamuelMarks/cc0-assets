@@ -1,0 +1,34 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+Preamble
+
+The GNU Affero General Public License is a free, copyleft license for
+software and other kinds of works, specifically designed to ensure
+cooperation with the community in the case of network server software.
+
+The GNU General Public License permits making a modified version and
+letting the public access it on a server without ever releasing its
+source code to the public. In the case of software that is designed
+specifically to run on network servers, this provides an obvious
+loophole. The GNU Affero General Public License is designed specifically
+to ensure that, in such cases, the modified source code becomes available
+to the community. It requires the operator of a network server to
+provide the source code of the modified version running there to the users
+of that server. Therefore, public use of a modified version, on a publicly
+accessible server, gives the public access to the source code of the
+modified version.
+
+TERMS AND CONDITIONS
+
+0. Definitions.
+"This License" refers to version 3 of the GNU Affero General Public License.
+"Copyright" also means copyright-like laws that apply to other kinds of works, such as semiconductor masks.
+"The Program" refers to any copyrightable work licensed under this License. Each licensee is addressed as "you".
+
+13. Remote Network Interaction; Use with the GNU General Public License.
+Notwithstanding any other provision of this License, if you modify the Program, your modified version must prominently offer all users interacting with it remotely through a computer network (if your version supports such interaction) an opportunity to receive the Corresponding Source of your version by providing access to the Corresponding Source from a network server at no charge, through some standard or customary means of facilitating copying of software.

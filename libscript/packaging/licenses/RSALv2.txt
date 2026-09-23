@@ -1,0 +1,9 @@
+REDIS SOURCE AVAILABLE LICENSE AGREEMENT, VERSION 2 (RSALv2)
+
+Copyright (c) 2024 Redis Ltd.
+
+1. Grant of License. Subject to the terms and limitations of this Agreement, Licensor hereby grants you a non-exclusive, non-transferable, royalty-free, worldwide license to use, reproduce, modify, display, and distribute the Software.
+
+2. Limitations. You may not:
+(a) provide the Software, or any portion thereof, or any derivative work of the Software, as a commercial managed service to third parties;
+(b) remove, alter, or obscure any copyright notices or other proprietary notices of Licensor.

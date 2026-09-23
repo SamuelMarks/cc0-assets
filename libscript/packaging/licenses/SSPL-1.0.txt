@@ -1,0 +1,15 @@
+Server Side Public License
+VERSION 1, OCTOBER 16, 2018
+
+Copyright (C) 2018 MongoDB, Inc.
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+TERMS AND CONDITIONS
+
+1. Definitions.
+"This License" refers to Server Side Public License.
+"Copyright" also means copyright-like laws that apply to other kinds of works.
+"The Program" refers to any copyrightable work licensed under this License. Each licensee is addressed as "you". "Licensees" and "recipients" may be individuals or organizations.
+
+13. Offering the Program as a Service.
+If you make the functionality of the Program or a modified version available to third parties as a service, you must make the Service Source Code available via network download to everyone at no charge, under the terms of this License.
